@@ -4,16 +4,3 @@ def add_one(a):
 
 def test_trupti():
 	print('is it working??')
-
-def add_thousand(a):
-  return a+1000
-
-def best_group():
-    return 'Sparks group obviously'
-
-
-def do_literally_nothing_to_my_input(a):
-  return a
-
-def Ramsey_made_it(x_1):
-  return x_1
